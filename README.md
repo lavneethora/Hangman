@@ -70,4 +70,3 @@ python hangman.py
 - Lavneet Hora
 - Sophomore @ Texas Tech University
 - Computer Science
-- 
